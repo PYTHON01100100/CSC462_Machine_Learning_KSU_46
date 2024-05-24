@@ -4,3 +4,8 @@
 #  Hesham Asem : https://youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR&feature=shared
 # Gheith Abandah : https://youtube.com/playlist?list=PLo1fUqpy_QD9LOoTVAPQEt02gLXTyucUZ&feature=shared
 # ML IN AR : https://youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA&feature=shared
+#  Basics of Machine Learning : https://youtube.com/playlist?list=PLoOabVweB2r5dL0AVmuDbS54UvmCIlZsT&feature=shared
+#   Neural Networks & Deep Learning  : https://youtube.com/playlist?list=PLoOabVweB2r57m5lr0cPkpduIVAIJOfNi&feature=shared
+# Open Data Science : https://youtube.com/playlist?list=PLB2SCq-tZtVl91qSPm0EwqrJqhYMCeoAx&feature=shared
+# Hussam Hourani : https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&feature=shared
+# MIT 6.S191: Introduction to Deep Learning : https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&feature=shared
