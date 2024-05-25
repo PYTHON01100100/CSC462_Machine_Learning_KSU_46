@@ -9,3 +9,5 @@
 # Open Data Science : https://youtube.com/playlist?list=PLB2SCq-tZtVl91qSPm0EwqrJqhYMCeoAx&feature=shared
 # Hussam Hourani : https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&feature=shared
 # MIT 6.S191: Introduction to Deep Learning : https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&feature=shared
+# Rasool Hasan : https://youtube.com/playlist?list=PL2jXoCmw1KK3vfeRTilG0ccTzd3OXK0DC&feature=shared
+# Neural Networks : https://youtube.com/playlist?list=PL2jXoCmw1KK26xY12QRd8aaWMQLUL2r4b&feature=shared 
