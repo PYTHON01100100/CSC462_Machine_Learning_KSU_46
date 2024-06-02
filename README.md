@@ -11,3 +11,5 @@
 # MIT 6.S191: Introduction to Deep Learning : https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&feature=shared
 # Rasool Hasan : https://youtube.com/playlist?list=PL2jXoCmw1KK3vfeRTilG0ccTzd3OXK0DC&feature=shared
 # Neural Networks : https://youtube.com/playlist?list=PL2jXoCmw1KK26xY12QRd8aaWMQLUL2r4b&feature=shared 
+# for my project :
+# best-of-ml-python : https://github.com/ml-tooling/best-of-ml-python
