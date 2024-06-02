@@ -14,5 +14,6 @@
 # github 
 # pykan : https://github.com/KindXiaoming/pykan
 # applied-ml : https://github.com/eugeneyan/applied-ml
+# Avik-Jain : https://github.com/Avik-Jain/100-Days-Of-ML-Code
 # for my project :
 # best-of-ml-python : https://github.com/ml-tooling/best-of-ml-python
