@@ -11,6 +11,10 @@
 # MIT 6.S191: Introduction to Deep Learning : https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&feature=shared
 # Rasool Hasan : https://youtube.com/playlist?list=PL2jXoCmw1KK3vfeRTilG0ccTzd3OXK0DC&feature=shared
 # Neural Networks : https://youtube.com/playlist?list=PL2jXoCmw1KK26xY12QRd8aaWMQLUL2r4b&feature=shared 
+# Machine Learning sessions - Taha Rehah : https://youtube.com/playlist?list=PLlqOXLg-GOqeyZGre-j6fUrJaYg05BeD1&feature=shared
+# Salem Alelyani : https://youtube.com/playlist?list=PLDiPsdq8TareYSiubxbi0D-1uy8O5m0tD&feature=shared
+# mohammed Alawad  : https://youtube.com/playlist?list=PLnlSW7g2gVoIX_QSq3JbAoY9E0XqQdSaZ&feature=shared
+#  DevMENA : https://youtube.com/playlist?list=PLlqOXLg-GOqeqXReeD63WVgti_YAKqbvB&feature=shared
 # github 
 # pykan : https://github.com/KindXiaoming/pykan
 # applied-ml : https://github.com/eugeneyan/applied-ml
