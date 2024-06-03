@@ -28,7 +28,10 @@
 #  Artificial Intelligence 1: Neural Networks : https://youtube.com/playlist?list=PLJqRpPcJQ_g1mhwpyFno3SRgBEPlWkTen&feature=shared
 #  Ahmed Yousry : https://youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj&feature=shared
 # m;;  : https://youtube.com/playlist?list=PLUQ5y3YcMclF5MiI_kP0-twCyN620UCk-&feature=shared
-#  : 
+# pytorch  : https://youtube.com/playlist?list=PLhBhgortqAcjERnXJE1SqmKvL7UFw7xCp&feature=shared
+# ML Training sessions: https://youtube.com/playlist?list=PLlqOXLg-GOqcPeJuvumuSnJtPrtWR0ZiX&feature=shared
+# Deep Learning Sessions-Ruqiya Bin Safi : https://youtube.com/playlist?list=PLlqOXLg-GOqcL9s1tur4AnA_ZJxo5JP9c&feature=shared
+# ML Training videos - Level 0 : https://youtube.com/playlist?list=PLlqOXLg-GOqeV-WwemTUTCd5UOiqLvxHw&feature=shared
 # github 
 # pykan : https://github.com/KindXiaoming/pykan
 # applied-ml : https://github.com/eugeneyan/applied-ml
