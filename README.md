@@ -19,6 +19,15 @@
 # ML Image processing APIs  : https://youtube.com/playlist?list=PLlqOXLg-GOqds2sr_OIBHpJu__rCFmZoF&feature=shared
 # ML Language Processing APIs : https://youtube.com/playlist?list=PLlqOXLg-GOqdKXTIj4KU0hDsHeSOFMJ4M&feature=shared
 #  Machine Learning Specialization by Andrew Ng : https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&feature=shared
+#  Machine Learning Algorithms : https://youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA&feature=shared
+# Deep Learning 2023 : https://youtube.com/playlist?list=PLHKTPL-jkzUpCSnwYhBKLua379t60R-a9&feature=shared
+# Mustafa Sadiq ICT Academy : https://youtube.com/playlist?list=PLHKTPL-jkzUqO07Lqh-G5wzLrLlD7cxgh&feature=shared
+# ProfElhosseini's TechVerse : https://youtube.com/playlist?list=PL-cKUB-e2Kiu6Wa0YdpBrILMBiYnu7uMW&feature=shared
+# Machine Learning : https://youtube.com/playlist?list=PL-cKUB-e2KitO5uYM0REL99Y3_q0mSRdP&feature=shared
+# Neural Networks : https://youtube.com/playlist?list=PL-cKUB-e2Kiuwjrwozrh1n4XnfpZOxDhF&feature=shared
+#  Artificial Intelligence 1: Neural Networks : https://youtube.com/playlist?list=PLJqRpPcJQ_g1mhwpyFno3SRgBEPlWkTen&feature=shared
+#  Ahmed Yousry : https://youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj&feature=shared
+# m;;  : https://youtube.com/playlist?list=PLUQ5y3YcMclF5MiI_kP0-twCyN620UCk-&feature=shared
 #  : 
 # github 
 # pykan : https://github.com/KindXiaoming/pykan
