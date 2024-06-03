@@ -15,6 +15,9 @@
 # Salem Alelyani : https://youtube.com/playlist?list=PLDiPsdq8TareYSiubxbi0D-1uy8O5m0tD&feature=shared
 # mohammed Alawad  : https://youtube.com/playlist?list=PLnlSW7g2gVoIX_QSq3JbAoY9E0XqQdSaZ&feature=shared
 #  DevMENA : https://youtube.com/playlist?list=PLlqOXLg-GOqeqXReeD63WVgti_YAKqbvB&feature=shared
+#  DevMENA : https://youtube.com/playlist?list=PLlqOXLg-GOqemd39cOJude_Jkl6crXaOi&feature=shared
+# ML Image processing APIs  : https://youtube.com/playlist?list=PLlqOXLg-GOqds2sr_OIBHpJu__rCFmZoF&feature=shared
+# ML Language Processing APIs : https://youtube.com/playlist?list=PLlqOXLg-GOqdKXTIj4KU0hDsHeSOFMJ4M&feature=shared
 # github 
 # pykan : https://github.com/KindXiaoming/pykan
 # applied-ml : https://github.com/eugeneyan/applied-ml
