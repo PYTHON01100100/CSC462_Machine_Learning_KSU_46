@@ -38,3 +38,5 @@
 # Avik-Jain : https://github.com/Avik-Jain/100-Days-Of-ML-Code
 # for my project :
 # best-of-ml-python : https://github.com/ml-tooling/best-of-ml-python
+# RECOMEND : https://github.com/microsoft/AI-For-Beginners/tree/main
+# Deep Learning - Stanford CS231N : https://youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&feature=shared
