@@ -40,3 +40,8 @@
 # best-of-ml-python : https://github.com/ml-tooling/best-of-ml-python
 # RECOMEND : https://github.com/microsoft/AI-For-Beginners/tree/main
 # Deep Learning - Stanford CS231N : https://youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&feature=shared
+# Coursera
+# Deep Learning Specialization : https://www.coursera.org/specializations/deep-learning
+# Generative Adversarial Networks (GANs) Specialization : https://www.coursera.org/specializations/generative-adversarial-networks-gans
+# TensorFlow: Advanced Techniques Specialization : https://www.coursera.org/specializations/tensorflow-advanced-techniques
+
