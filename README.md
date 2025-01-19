@@ -1,9 +1,13 @@
  CSC-462-_-Machine-Learning-_KSU
 # Englihs
 Deep Learning Specialization : https://www.coursera.org/specializations/deep-learning
+
 Generative Adversarial Networks (GANs) Specialization : https://www.coursera.org/specializations/generative-adversarial-networks-gans
+
 TensorFlow: Advanced Techniques Specialization : https://www.coursera.org/specializations/tensorflow-advanced-techniques
+ 
  Deep Learning - Stanford CS231N : https://youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&feature=shared
+ 
  ML from Google : https://developers.google.com/machine-learning
 # github 
 pykan : https://github.com/KindXiaoming/pykan
