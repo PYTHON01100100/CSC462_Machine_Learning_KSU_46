@@ -1,5 +1,5 @@
  CSC-462-_-Machine-Learning-_KSU
-# Englihs
+# English
 Deep Learning Specialization : https://www.coursera.org/specializations/deep-learning
 
 Generative Adversarial Networks (GANs) Specialization : https://www.coursera.org/specializations/generative-adversarial-networks-gans
