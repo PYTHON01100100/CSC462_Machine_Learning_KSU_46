@@ -8,6 +8,7 @@ A curated list of Machine Learning / Deep Learning resources: courses, GitHub re
 - [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) — Coursera
 - [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques) — Coursera
 - [Deep Learning - Stanford CS231N](https://youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ&feature=shared)
+- [Stanford CS229: Machine Learning — Andrew Ng (Autumn 2018)](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [ML from Google](https://developers.google.com/machine-learning)
 
 ## GitHub
