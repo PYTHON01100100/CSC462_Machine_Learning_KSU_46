@@ -56,6 +56,7 @@ A curated list of Machine Learning / Deep Learning resources: courses, GitHub re
 - [ML Training Videos — Level 0](https://youtube.com/playlist?list=PLlqOXLg-GOqeV-WwemTUTCd5UOiqLvxHw&feature=shared)
 - [Data Science and AI](https://www.youtube.com/playlist?list=PLMk9IwL3W4I7ZVVJ19k-gaTt0bc6PGRWc)
 - [In Arabic — Math, Software and AI](https://www.youtube.com/playlist?list=PLTRDUPO2OmImCOJtCiHS4kLTBYvvn_t3F)
+- [Deep Learning](https://www.youtube.com/playlist?list=PLZd2bo_SbAm98t_m95jkGeP9iXkGfsTTv)
 
 ### Channels
 
@@ -69,3 +70,19 @@ A curated list of Machine Learning / Deep Learning resources: courses, GitHub re
 - [Youssef Hosni](https://www.youtube.com/@YoussefHosni95/featured)
 - [Machine Decision Arabic](https://www.youtube.com/@MachineDecisionArabic)
 - [bakrianoo](https://www.youtube.com/@bakrianoo/featured)
+- [Dr. Hasan Aljabbouli](https://www.youtube.com/@DrHasanAljabbouli)
+- [Ons AI](https://www.youtube.com/@ons-ai/featured)
+- [Bess Gates](https://www.youtube.com/@Bess_Gates)
+- [Mohamed Rashad](https://www.youtube.com/@mohamedrashad5838/featured)
+- [Omar NJ](https://www.youtube.com/@omarnj848/featured)
+- [Hussam Hourani](https://www.youtube.com/@hussamhourani2633)
+- [Bahgat Ahmed](https://www.youtube.com/@bahgatahmed6803/playlists)
+- [Ahmed Abdelbasit](https://www.youtube.com/@AhmedAbdelbasit/featured)
+- [M Sharno](https://www.youtube.com/@msharno)
+- [Abdallah Alfaham](https://www.youtube.com/@AbdallahAlfaham)
+- [Abdulrahman Fiqi](https://www.youtube.com/@Abdulrahman1Fiqi/featured)
+- [Alquaary Academy](https://www.youtube.com/@AlquaaryAcademy/featured)
+- [Karim Elgazar](https://www.youtube.com/@KarimElgazar)
+- [Ahmaurya](https://www.youtube.com/@ahmaurya/featured)
+- [Gheith Abandah](https://www.youtube.com/@GheithAbandah)
+- [Ahmed Yousry](https://www.youtube.com/@ahmedyousry609)
